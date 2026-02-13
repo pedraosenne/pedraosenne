@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Estudante do Terçeiro ano do Ensino Médio ...<br>📚 Sempre em busca de novos conhecimentos ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Estudante do Terçeiro ano do Ensino Médio ...<br>📚 Sempre em busca de novos conhecimentos ...<br>🎯 Meu objetivo é construir soluções que facilitem a vida das pessoas e colaborar com a comunidade tech ...<br>🎲 : ...</p>
 
 ###
 
