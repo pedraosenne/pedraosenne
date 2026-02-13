@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Estudante do Terçeiro ano do Ensino Médio ...<br>📚 Sempre em busca de novos conhecimentos ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
