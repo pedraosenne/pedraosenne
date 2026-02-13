@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Prazer sou o Pedro Hnrique</p>
+<p align="left">Prazer sou o Pedro Henrique</p>
 
 ###
 
