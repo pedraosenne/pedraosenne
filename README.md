@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Atualmente estou no ensino medio</p>
+<p align="left">Prazer sou o Pedro Hnrique</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Estudante do Terçeiro ano do Ensino Médio ...<br>📚 Sempre em busca de novos conhecimentos ...<br>🎯 Meu objetivo é construir soluções que facilitem a vida das pessoas e colaborar com a comunidade tech ...<br>🎲 : ...</p>
+<p align="left">✨ Estudante do Terçeiro ano do Ensino Médio ...<br>📚 Sempre em busca de novos conhecimentos ...<br>🎯 Meu objetivo é construir soluções que facilitem a vida das pessoas e colaborar com a comunidade tech ...<br>🎲 Gosto muito de Técnologia  : ...</p>
 
 ###
 
